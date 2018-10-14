@@ -1,2 +1,0 @@
-# editmd
-markdown editor
